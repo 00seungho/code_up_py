@@ -1,3 +1,4 @@
-a,b=input().split()
-c=int(a)+int(b)
+a = input()
+b = input()
+c=float(a)+float(b)
 print(c)
